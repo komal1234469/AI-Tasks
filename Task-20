@@ -1,0 +1,31 @@
+🚀 **Weekly Review + Mini Project Update**
+
+This week, I focused on strengthening both **coding and core concepts** by working on a hands-on mini task.
+
+🔍 **Focus Area:** NumPy / SciPy
+💡 **Project:** Embedding Similarity Calculator
+
+📌 **What I built:**
+A Python-based tool that calculates similarity between two embeddings using:
+✔️ Cosine Similarity (angle-based comparison)
+✔️ Euclidean Similarity (distance-based comparison)
+
+🧠 **What I learned:**
+• How vector similarity works in real-world applications (NLP, AI)
+• Importance of cosine similarity in text embeddings
+• Practical use of NumPy and SciPy for mathematical computations
+
+⚙️ **Key Features:**
+• User input for custom embeddings
+• Handles vector validation
+• Outputs similarity scores clearly
+
+📊 **Key Takeaway:**
+Understanding similarity measures is crucial for tasks like search engines, recommendation systems, and NLP models.
+
+🚧 **Next Steps:**
+➡️ Work with real embeddings (Word2Vec / BERT)
+➡️ Build a simple UI (Streamlit)
+➡️ Expand to multi-vector comparison
+
+#Python #NumPy #SciPy #MachineLearning #NLP #Coding #AI #LearningInPublic #StudentDeveloper
